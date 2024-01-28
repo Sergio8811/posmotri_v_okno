@@ -36,3 +36,8 @@ ul,
 ol {
   list-style: none;
 }
+
+.search-form {
+  display: flex;
+  gap: 40px;
+}
