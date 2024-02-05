@@ -266,10 +266,10 @@ ol {
   text-decoration: underline;
   cursor: pointer;
 }
-/* .search-form__textfield:focus-visible {
-  outline: 1px solid #fff;
-  outline-offset: 1px;
-} */
+.button:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
 .button:focus-visible {
   outline: 1px solid #fff;
   outline-offset: 1px;
@@ -287,4 +287,8 @@ ol {
 }
 .content__card-link:hover{
   text-decoration: underline;
+}
+.result__video:focus-visible {
+  outline: 1px solid #fff;
+  outline-offset: 1px;
 }
